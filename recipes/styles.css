@@ -1,0 +1,43 @@
+
+.spaghetti-title {
+    color: rgb(171, 83, 0);
+    background-color: rgb(255, 183, 0);
+    text-align: center;
+    font-weight: bold;
+}
+
+.lasagna-title {
+    color: rgb(255, 77, 0);
+    background-color: orange;
+    text-align: center;
+    font-weight: bold;
+}
+
+.omlette-title {
+    color: rgb(255, 251, 0);
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.image.spaghetti {
+    width: 500px;
+    height: auto;
+}
+
+.image.lasagna {
+    width: 500px;
+    height: auto;
+}
+
+.image.omlette {
+    width: 500px;
+    height: auto;
+}
+ .heading .heading2 {
+    color: blueviolet;
+    background-color: aquamarine;
+    font-style: italic;
+ }
+
+
